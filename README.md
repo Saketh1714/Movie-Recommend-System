@@ -1,6 +1,4 @@
 
-# Movie-Recommend-System
-
 # 🎬 Movie Recommendation System
 
 A Python-based web application that recommends movies based on user input. Features a modern UI/UX, multiple filtering methods, and leverages machine learning for personalized suggestions.
